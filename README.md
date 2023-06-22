@@ -7,7 +7,4 @@ Skills: REACT | JAVASCRIPT | EXPRESS | MONGODB | NODE JS | HTML | CSS
 - 🌱 I’m currently learning Next js 
 - 📫 How to reach me: bakhtiarfahim360@gmail.com 
 
-
-![Profile views](https://gpvc.arturio.dev/Bakhtiar2000)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bakhtiar2000)  
