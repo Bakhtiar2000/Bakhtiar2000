@@ -9,3 +9,5 @@ Skills: REACT | JAVASCRIPT | EXPRESS | MONGODB | NODE JS | HTML | CSS
 
 
 ![Profile views](https://gpvc.arturio.dev/Bakhtiar2000)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Bakhtiar2000)  
