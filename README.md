@@ -1,9 +1,9 @@
 ### Hi I am Bakhtiar Fahim  👋
 <hr/>
--👑 I am Web Developer
--💪 Can develop React based apps
--🌱 Currently learning Next js 
--📫 Reach me: bakhtiarfahim360@gmail.com 
+- 👑 I am Web Developer
+- 💪 Can develop React based apps
+- 🌱 Currently learning Next js 
+- 📫 Reach me: bakhtiarfahim360@gmail.com 
 
 🚀 About Me
 <hr/>
