@@ -8,14 +8,4 @@ Skills: REACT | JAVASCRIPT | EXPRESS | MONGODB | NODE JS | HTML | CSS
 - 📫 How to reach me: bakhtiarfahim360@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bakhtiar2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-bakhtiar-fahim-bba6a1227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prince.fahim.5203577)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtiar2000)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakhtiar2000&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bakhtiar2000)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Bakhtiar2000)  
-
 ![Profile views](https://gpvc.arturio.dev/Bakhtiar2000)  
