@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I'm a web developer skilled in crafting visually stunning interfaces. Mainly skilled in Front-end development but I can seamlessly handle server-side operations. I am proficient in HTML, CSS, JavaScript, React, Express js, Node.js, and Mongodb. I am a fast learner and determined person. Let's collaborate and create impactful web applications together!
 
-## Skills and experiences:
+## 👨‍💻 Skills and experiences:
 ✅ React <br> 
 ✅ JavaScript <br>
 ✅ Express <br>
