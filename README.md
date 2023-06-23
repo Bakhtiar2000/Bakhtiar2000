@@ -18,5 +18,5 @@ I'm a web developer skilled in crafting visually stunning interfaces. Mainly ski
 ✅ Node js <br>
 ✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtiar2000&layout=compact) <br/>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bakhtiar2000)  
