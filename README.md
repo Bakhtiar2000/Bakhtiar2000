@@ -27,5 +27,5 @@ I'm a web developer skilled in crafting visually stunning interfaces. Mainly ski
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtiar2000&layout=compact) <br/>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bakhtiar2000&show_icons=true&locale=en" alt="Bakhtiar2000" /></p>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bakhtiar2000)  <br/>
