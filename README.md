@@ -6,6 +6,8 @@
 📫 Reach me: bakhtiarfahim360@gmail.com <br/>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bakhtiar2000&label=Profile%20views&color=0e75b6&style=flat" alt="Bakhtiar2000" /> </p>
+
 ## 🚀 About Me
 I'm a web developer skilled in crafting visually stunning interfaces. Mainly skilled in Front-end development but I can seamlessly handle server-side operations. I am proficient in HTML, CSS, JavaScript, React, Express js, Node.js, and Mongodb. I am a fast learner and determined person. Let's collaborate and create impactful web applications together!
 
